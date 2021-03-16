@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\bin\Debug\Ej11_AñoBisiesto.exe.config
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\bin\Debug\Ej11_AñoBisiesto.exe
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\bin\Debug\Ej11_AñoBisiesto.pdb
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.Form1.resources
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.exe
+C:\Users\jared\source\repos\Ej11_AñoBisiesto\Ej11_AñoBisiesto\obj\Debug\Ej11_AñoBisiesto.pdb
